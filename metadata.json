@@ -1,0 +1,5 @@
+{
+  "name": "Creative Studio AI",
+  "description": "An application to generate stunning images from text prompts and animate your photos into captivating videos using the power of Google's Veo and Imagen models.",
+  "requestFramePermissions": []
+}
